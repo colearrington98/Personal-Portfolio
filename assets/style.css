@@ -121,11 +121,15 @@
     padding: 1rem;
   }
   
-  img {
+ img {
     max-width: 500px;
     margin: 0 auto;
     display: block;
   }
   .image-wrapper {
     text-align: center;
+  }
+  img.profile {
+    width: 200px;
+    border-radius: 50%;
   }
